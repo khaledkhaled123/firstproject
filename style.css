@@ -11,7 +11,7 @@ header {
 header #container h1{
   float: left;
   color: #2e2a2a;
-  padding:15px;
+  padding:20px;
   font-family: monospace;
   font-weight: bold;
   cursor: pointer;
